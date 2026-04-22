@@ -1,6 +1,6 @@
-# 👟 Website Bán Giày Dép Và Phụ Kiện – Thanh Toán PayPal (Laravel Project)
+# 👟 Website Bán Giày Dép – Thanh Toán PayPal (Laravel Project)
 
-Dự án là một hệ thống Thương mại điện tử bán giày dép và phụ kiện (E-Commerce Web Application) 
+Dự án là một hệ thống Thương mại điện tử án giày dép (E-Commerce Web Application) 
 
 ---
 
