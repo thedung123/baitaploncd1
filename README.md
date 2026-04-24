@@ -52,7 +52,7 @@ Bash
 1. composer install
 2. php artisan key:generate
 3. php artisan serve
-Bước 4: Truy cập
+   Bước 4: Truy cập
 Website: http://127.0.0.1:8000
 
 Admin: Thêm /admin vào sau đường dẫn (ví dụ: http://127.0.0.1:8000/admin).
