@@ -45,14 +45,14 @@ Hệ thống được thiết kế tối ưu hóa quy trình kinh doanh trực t
    DB_DATABASE=Giay
    DB_USERNAME=root
    DB_PASSWORD=
-   Bước 3: Chạy lệnh hệ thống
+### **Bước 3: Chạy lệnh hệ thống**
 Mở Terminal tại thư mục dự án và chạy:
 
 Bash
-1. composer install
-2. php artisan key:generate
-3. php artisan serve
-   Bước 4: Truy cập
+composer install
+php artisan key:generate
+php artisan serveserve
+### **Bước 4: Truy cập**
 Website: http://127.0.0.1:8000
 
 Admin: Thêm /admin vào sau đường dẫn (ví dụ: http://127.0.0.1:8000/admin).
