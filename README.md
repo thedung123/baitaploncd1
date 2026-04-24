@@ -49,9 +49,9 @@ Hệ thống được thiết kế tối ưu hóa quy trình kinh doanh trực t
 Mở Terminal tại thư mục dự án và chạy:
 
 Bash
-1.composer install
-2.php artisan key:generate
-3.php artisan serveserve
+1. composer install
+2. php artisan key:generate
+3. php artisan serveserve
 ### **Bước 4: Truy cập**
 Website: http://127.0.0.1:8000
 
